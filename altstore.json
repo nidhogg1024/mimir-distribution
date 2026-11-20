@@ -1,0 +1,36 @@
+{
+  "name": "Mimir",
+  "identifier": "top.nidhogglab.mimir.distribution",
+  "iconURL": "https://raw.githubusercontent.com/nidhogg1024/mimir/main/icon.png",
+  "apps": [
+    {
+      "name": "Mimir",
+      "bundleIdentifier": "top.nidhogglab.mimir",
+      "developerName": "nidhogg1024",
+      "localizedDescription": "在 iPhone 上使用 Argus 和 Neuron。",
+      "iconURL": "https://raw.githubusercontent.com/nidhogg1024/mimir/main/icon.png",
+      "category": "productivity",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-11-19T18:25:04Z",
+          "localizedDescription": "初始分发版本（19c353b）。",
+          "downloadURL": "https://raw.githubusercontent.com/nidhogg1024/mimir/main/Mimir-19c353b.ipa",
+          "size": 1697733,
+          "sha256": "95a67d9736f63c9ebb6c08e7b854c5239e894d30b2a8dc3d0dd7892f7419ec2c",
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "语音提问时录下你说的话，转成文字后再发送。",
+          "NSPhotoLibraryUsageDescription": "选择券商截图同步持仓，或把图片发给助手。",
+          "NSSpeechRecognitionUsageDescription": "把语音提问转成文字，优先在设备上识别。"
+        }
+      }
+    }
+  ],
+  "news": []
+}
