@@ -1,14 +1,14 @@
 {
   "name": "Mimir",
   "identifier": "top.nidhogglab.mimir.distribution",
-  "iconURL": "https://raw.githubusercontent.com/nidhogg1024/mimir/main/icon.png",
+  "iconURL": "https://raw.githubusercontent.com/nidhogg1024/mimir-distribution/main/icon.png",
   "apps": [
     {
       "name": "Mimir",
       "bundleIdentifier": "top.nidhogglab.mimir",
       "developerName": "nidhogg1024",
       "localizedDescription": "在 iPhone 上使用 Argus 和 Neuron。",
-      "iconURL": "https://raw.githubusercontent.com/nidhogg1024/mimir/main/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/nidhogg1024/mimir-distribution/main/icon.png",
       "category": "productivity",
       "versions": [
         {
@@ -16,7 +16,7 @@
           "buildVersion": "1",
           "date": "2026-11-19T18:25:04Z",
           "localizedDescription": "初始分发版本（19c353b）。",
-          "downloadURL": "https://raw.githubusercontent.com/nidhogg1024/mimir/main/Mimir-19c353b.ipa",
+          "downloadURL": "https://raw.githubusercontent.com/nidhogg1024/mimir-distribution/main/Mimir-19c353b.ipa",
           "size": 1697733,
           "sha256": "95a67d9736f63c9ebb6c08e7b854c5239e894d30b2a8dc3d0dd7892f7419ec2c",
           "minOSVersion": "17.0"
