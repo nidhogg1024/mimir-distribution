@@ -12,6 +12,16 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "1.1",
+          "buildVersion": "2",
+          "date": "2026-11-21T18:18:53Z",
+          "localizedDescription": "原生投资首页与持仓页；对话回答带持仓、行情、大盘数据卡和后续问题；持仓与提醒先出确认卡再生效；对话可归档、删除，列表和历史先显示缓存；表格与流程图显示改进；对话页“新对话”按钮修复；新图标；移除语音输入（b78f105）。",
+          "downloadURL": "https://raw.githubusercontent.com/nidhogg1024/mimir-distribution/main/Mimir-b78f105.ipa",
+          "size": 2925893,
+          "sha256": "28efbe3972034a2995b3774fe7e6fe67f8ad12f161d84f502ec23a06987a144c",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0",
           "buildVersion": "1",
           "date": "2026-11-19T18:25:04Z",
@@ -25,9 +35,7 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSMicrophoneUsageDescription": "语音提问时录下你说的话，转成文字后再发送。",
-          "NSPhotoLibraryUsageDescription": "选择券商截图同步持仓，或把图片发给助手。",
-          "NSSpeechRecognitionUsageDescription": "把语音提问转成文字，优先在设备上识别。"
+          "NSPhotoLibraryUsageDescription": "选择券商截图同步持仓，或把图片发给助手。"
         }
       }
     }
