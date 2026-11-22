@@ -12,6 +12,16 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "1.4",
+          "buildVersion": "5",
+          "date": "2026-11-22T18:33:19Z",
+          "localizedDescription": "知识助手新增知识库、阅读、搜索和学习主题。投资助手可记录持仓打算与决策，查看默认提醒和新版周报（de1a453）。",
+          "downloadURL": "https://raw.githubusercontent.com/nidhogg1024/mimir-distribution/main/Mimir-de1a453.ipa",
+          "size": 4459002,
+          "sha256": "b3c66ec53a8d8ef6992cebc5a0fde85aa96178427d5251fb9e9c9d5993ffda9e",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.3",
           "buildVersion": "4",
           "date": "2026-11-22T13:40:10Z",
