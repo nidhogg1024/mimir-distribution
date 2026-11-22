@@ -12,6 +12,16 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "1.2",
+          "buildVersion": "3",
+          "date": "2026-11-22T08:16:10Z",
+          "localizedDescription": "报告按日报 / 周报 / 其他分类，日报再分 A 股与美股；新增快速定投：设置与试算、到期提醒卡一键记账、月度计划 vs 实际；回答与报告可评价“差 / 一般 / 好”；数据卡视觉升级、大盘与两股对比稳定出卡；最大辅助字号下报告列表与定投页面不再断行（43f4d91）。",
+          "downloadURL": "https://raw.githubusercontent.com/nidhogg1024/mimir-distribution/main/Mimir-43f4d91.ipa",
+          "size": 3482500,
+          "sha256": "da0eab9d6ad8b6c2b569ec95f9d0d41d930dd9eb8a239376703868ca843805d1",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.1",
           "buildVersion": "2",
           "date": "2026-11-21T18:18:53Z",
