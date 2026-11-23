@@ -12,6 +12,16 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "1.5",
+          "buildVersion": "7",
+          "date": "2026-11-23T18:34:28.132Z",
+          "localizedDescription": "整合知识首页和问答体验改进，支持自选、盘中变化、按股数定投、多图输入和相机附件。",
+          "downloadURL": "https://raw.githubusercontent.com/nidhogg1024/mimir-distribution/main/Mimir-7027edf.ipa",
+          "size": 4592712,
+          "sha256": "eb163e431bd2234261b2abbbba9261a3ca73423c31ff67fd94ed46fd737d3b1a",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.4",
           "buildVersion": "6",
           "date": "2026-11-23T18:06:59Z",
@@ -75,6 +85,7 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
+          "NSCameraUsageDescription": "拍照添加到对话。",
           "NSPhotoLibraryUsageDescription": "选择券商截图同步持仓，或把图片发给助手。"
         }
       }
