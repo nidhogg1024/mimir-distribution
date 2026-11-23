@@ -13,6 +13,16 @@
       "versions": [
         {
           "version": "1.4",
+          "buildVersion": "6",
+          "date": "2026-11-23T18:06:59Z",
+          "localizedDescription": "知识助手首页新增最近对话，区分自动整理与学习进度。问答支持实时进度和推理摘要，历史回复可查看所用模型和来源。修复中文 Markdown 渲染，新增可撤销的点赞和点踩。",
+          "downloadURL": "https://raw.githubusercontent.com/nidhogg1024/mimir-distribution/main/Mimir-e4fea79.ipa",
+          "size": 4499547,
+          "sha256": "9d76ee908a8ac6863c70f5d088b57f104c87e9116f6983f0a769d2f11b81c54d",
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.4",
           "buildVersion": "5",
           "date": "2026-11-22T18:33:19Z",
           "localizedDescription": "知识助手新增知识库、阅读、搜索和学习主题。投资助手可记录持仓打算与决策，查看默认提醒和新版周报（de1a453）。",
