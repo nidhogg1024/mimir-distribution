@@ -12,6 +12,16 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "1.5.1",
+          "buildVersion": "8",
+          "date": "2026-11-23T19:07:08.808Z",
+          "localizedDescription": "修复持仓、截图同步、定投与提醒的共用确认流程。提交时确认与取消保持对齐，临时失败可从原预览重试。",
+          "downloadURL": "https://raw.githubusercontent.com/nidhogg1024/mimir-distribution/main/Mimir-f49e336.ipa",
+          "size": 4595714,
+          "sha256": "5ae2839d5345b95e1a4e8536b0c2680b73ac28228c0b3f8e1589adb881532eed",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.5",
           "buildVersion": "7",
           "date": "2026-11-23T18:34:28.132Z",
