@@ -12,6 +12,16 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "1.5.2",
+          "buildVersion": "9",
+          "date": "2026-11-24T07:11:01.420Z",
+          "localizedDescription": "支持单张和多张持仓截图按账户生成股数差异预览，确认后更新。聊天图片放在文字上方，支持全屏放大和左右滑动，断线时只重试未上传成功的图片。",
+          "downloadURL": "https://raw.githubusercontent.com/nidhogg1024/mimir-distribution/main/Mimir-3781c73.ipa",
+          "size": 4625510,
+          "sha256": "c2e43b17045a815d4a51de77c137030c30cca65a9934b7e83ed676bcdcf91869",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.5.1",
           "buildVersion": "8",
           "date": "2026-11-23T19:07:08.808Z",
