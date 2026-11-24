@@ -12,6 +12,16 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "1.5.3",
+          "buildVersion": "10",
+          "date": "2026-11-24T17:43:20.973Z",
+          "localizedDescription": "输入框已选图片改为右上角角标删除并支持全屏缩放预览；单张图片按比例自适应展示；配合 Argus 修复纯截图、自然口语及横向分屏多图持仓同步并自动弹出确认卡。",
+          "downloadURL": "https://raw.githubusercontent.com/nidhogg1024/mimir-distribution/main/Mimir-8d2ea52.ipa",
+          "size": 4646950,
+          "sha256": "dcd64f5bb008023fe713908e6fb47a47a38931d5be15b0f3ae0e7f8ddf561ddf",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.5.2",
           "buildVersion": "9",
           "date": "2026-11-24T07:11:01.420Z",
