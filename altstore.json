@@ -12,6 +12,16 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "1.6.0",
+          "buildVersion": "11",
+          "date": "2026-11-24T20:16:01.000Z",
+          "localizedDescription": "投资界面升级为同花顺精简专业布局：首屏集成一键快捷入口（持仓/自选/定投/报告/异动）、A 股与美股资产大卡、大盘指数条与可点表头排序的四列金融持仓表；个股页新增多周期切换（1月/3月/6月/1年/全部）与手指拖动十字星查价；自选股页升级为带实时价与涨跌胶囊的行情表。",
+          "downloadURL": "https://raw.githubusercontent.com/nidhogg1024/mimir-distribution/main/Mimir-66ac2f0.ipa",
+          "size": 4776112,
+          "sha256": "15a122b2dd9141dba42a5ca2c4807e3e666791b78fb4ee5d291649f1fa43e7f3",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.5.3",
           "buildVersion": "10",
           "date": "2026-11-24T17:43:20.973Z",
