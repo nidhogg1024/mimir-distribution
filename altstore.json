@@ -12,6 +12,16 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "1.8.0",
+          "buildVersion": "14",
+          "date": "2026-11-25T18:24:15.137Z",
+          "localizedDescription": "投资助手全面升级：首页与持仓新增「总览 · ¥ / A 股 · ¥ / 美股 · $」跨市场总览（含美元汇率折算、科技/宽基/稳健风险穿透条、市场温度与定投倍率参考）及开盘时段自动切换设置；持仓表统一上下对齐（金额在上、比例在下）、分位精度与 ETF 三位小数对齐，收敛「同步持仓」菜单并移除冗余条目；修复定投页与账户页刷新提示并新增均线倍率参考；个股详情页升级日 K 线（MA5/MA20、成交量、十字星查价）并支持「AI 解读 K 线」；投资报告重构为三层交互阅读（5 秒总览 + Argus 立场与多空比 + 持仓表现与归因融合卡片 + 按需折叠深读），并全面修复正文中涨跌动词与数值的红涨绿跌着色。",
+          "downloadURL": "https://raw.githubusercontent.com/nidhogg1024/mimir-distribution/main/Mimir-9a6e015.ipa",
+          "size": 5128249,
+          "sha256": "97a0b9b6c69a4d9665d39993790aa78b70df6aa6c262d9065a529b330841bd1e",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.7.0",
           "buildVersion": "13",
           "date": "2026-11-25T08:44:52.946Z",
