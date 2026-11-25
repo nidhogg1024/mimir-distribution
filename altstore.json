@@ -12,6 +12,16 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "1.7.0",
+          "buildVersion": "13",
+          "date": "2026-11-25T08:44:52.946Z",
+          "localizedDescription": "补齐知识助手学习闭环与跨助手流转：Neuron 回复新增「接着想 / 认真学这个 / 转给 Argus」快捷操作，Argus 回复新增「存到知识 / 去 Neuron 学」入口；支持建主题防重复、首次建主题提醒引导、冷启动时间段设置、先存未读文章与提醒反馈；新增 iOS 系统分享扩展（MimirShare），可从浏览器与其他 App 直接保存文章到知识库或开始学习。",
+          "downloadURL": "https://raw.githubusercontent.com/nidhogg1024/mimir-distribution/main/Mimir-9babf87.ipa",
+          "size": 4944528,
+          "sha256": "664ece7ef5d9de5126653773f0a2e16c2aa7753f5a03f3d3860eeb7f8f3f18ff",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.6.1",
           "buildVersion": "12",
           "date": "2026-11-25T02:40:39.000Z",
