@@ -12,6 +12,16 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "1.6.1",
+          "buildVersion": "12",
+          "date": "2026-11-25T02:40:39.000Z",
+          "localizedDescription": "重构异动与公告体验：异动页收口为「异动 / 公告」双栏，区分今日异动与往期记录，大异动自动展示实时归因并支持一键查看走势或追问 Argus 原因；首页移除重复持仓提醒块与“本周提醒已满”限制，顶部「异动」入口新增今日红点提示；报告失败提示归位至报告页顶部。",
+          "downloadURL": "https://raw.githubusercontent.com/nidhogg1024/mimir-distribution/main/Mimir-ac8adca.ipa",
+          "size": 4831934,
+          "sha256": "f9696d9adb2c023740754dfe15ca69a49e5c405cf8cf8607344a19901ed49eac",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.6.0",
           "buildVersion": "11",
           "date": "2026-11-24T20:16:01.000Z",
