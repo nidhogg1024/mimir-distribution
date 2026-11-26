@@ -12,6 +12,16 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "1.9.0",
+          "buildVersion": "16",
+          "date": "2026-11-26T04:36:19.936Z",
+          "localizedDescription": "知识助手与投资助手双线升级：Neuron 知识条目与长笔记新增「精读卡 / 原文」声明式交互阅读模式（自带即时本地结构拆解 + 一键 AI 精读拆解，含核心结论、要点卡、按概念/机制/步骤/对比/避坑/清单分类的折叠卡、可勾选清单与交互式自测问答，并锁定纵向滚动防水平越界）；Argus 新增只读「下单前核对（交易前 Copilot）」能力（覆盖首页快捷栏、持仓列表与个股详情页，实时测算交易前后仓位/均价/回本涨幅、科技/宽基/稳健风险桶穿透变化、跨市场与同基准重叠敞口、均线偏离温度与冷静清单，并支持一键带完整账单让 Argus 泼冷水深度评估）。",
+          "downloadURL": "https://raw.githubusercontent.com/nidhogg1024/mimir-distribution/main/Mimir-293b4d3.ipa",
+          "size": 5591823,
+          "sha256": "52e3e9f03e7caa84f6154c003fb3fe9e3006813f1ed8143c4f095db2244df3f1",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.8.1",
           "buildVersion": "15",
           "date": "2026-11-26T03:04:09.291Z",
