@@ -12,6 +12,16 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "1.8.1",
+          "buildVersion": "15",
+          "date": "2026-11-26T03:04:09.291Z",
+          "localizedDescription": "修复报告详情页按住拖动时整页可被拖出水平边界的问题（锁定视口宽度并补充全字号防溢出回归）；区分「收盘行情速报」与「深度复盘」展示，收盘简报不再误导显示“点按看原因”或“本期未单独拆解波动原因”。",
+          "downloadURL": "https://raw.githubusercontent.com/nidhogg1024/mimir-distribution/main/Mimir-20835e4.ipa",
+          "size": 5136261,
+          "sha256": "16f1694fb76ed6e26e16b7fa6e5609511ab88f1ec800e6c7461e57fcceed6120",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.8.0",
           "buildVersion": "14",
           "date": "2026-11-25T18:24:15.137Z",
