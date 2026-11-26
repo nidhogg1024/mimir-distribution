@@ -12,6 +12,16 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "1.11.0",
+          "buildVersion": "18",
+          "date": "2026-11-26T18:13:57.284Z",
+          "localizedDescription": "新增跨市场交易时钟与休市/半天市感知：单市场资产卡新增极轻市场状态胶囊（交易中/盘前/盘后/已收盘/休市·节日/半天市），普通周末保持静默零打扰；仅在工作日法定休市或美股半天市时，在市场切换卡标出「休/早」角标并在首页展示可当日收起的休市/半天市轻提示条（含下次开盘与提前收盘时间），同时联动下单前核对页标注休市参考价。",
+          "downloadURL": "https://raw.githubusercontent.com/nidhogg1024/mimir-distribution/main/Mimir-a2c3df5.ipa",
+          "size": 5671021,
+          "sha256": "2dd1c28258cd4317ef2ff9cae7ddad997d0b3c801122a6ac0f7de76577410d0c",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.10.0",
           "buildVersion": "17",
           "date": "2026-11-26T16:30:46.145Z",
