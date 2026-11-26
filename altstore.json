@@ -12,6 +12,16 @@
       "category": "productivity",
       "versions": [
         {
+          "version": "1.10.0",
+          "buildVersion": "17",
+          "date": "2026-11-26T16:30:46.145Z",
+          "localizedDescription": "投资首页与持仓/异动架构重构：首页回归决策驾驶舱——「最新报告」直接上移至资产大卡下方，首页移除冗余全量持仓表改为精简持仓入口卡，消除与「完整明细」的重复套娃；「持仓」页保持按账户分币种展示，表头排序严格对齐上方加粗金额（支持跨币种汇率折算排序），并为今日与持有盈亏补齐显式 ¥/$ 币种符号；「异动」红点改为仅统计持仓与自选相关的未读信号（点进页面即清零并持久化已读水位），大盘板块扫描降级为折叠参考不触发红点。",
+          "downloadURL": "https://raw.githubusercontent.com/nidhogg1024/mimir-distribution/main/Mimir-b789635.ipa",
+          "size": 5606457,
+          "sha256": "5c78d7688716c18f2b56de3f8b20187d9edbd44e52cb20247fcedec0cb33de59",
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.9.0",
           "buildVersion": "16",
           "date": "2026-11-26T04:36:19.936Z",
